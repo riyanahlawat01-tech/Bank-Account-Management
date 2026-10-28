@@ -48,4 +48,3 @@ Bash
 mvn test
 
 
-*(Note: make sure to leave out any internal citation tags like `[cite: 8]` so your rendered README looks completely clean on GitHub!)*
